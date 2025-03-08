@@ -4,9 +4,10 @@
 
 This is a **MBTI Personality Test App** to discover **Myers-Briggs Type Indicator (MBTI)** personality type through a quiz. Built with **React, TypeScript, Framer Motion, and Tailwind CSS**.
 
+![4_20250308_174012_0000](https://github.com/user-attachments/assets/1c2f915b-0c6f-497b-8d2e-1119c6d8a616)
 ![5_20250308_174012_0001](https://github.com/user-attachments/assets/ae47446d-a643-4b5b-8203-1ec2a90b4ada)
 ![6_20250308_174013_0002](https://github.com/user-attachments/assets/708682e0-0621-4389-9290-c989851851b3)
-![4_20250308_174012_0000](https://github.com/user-attachments/assets/1c2f915b-0c6f-497b-8d2e-1119c6d8a616)
+
 
 
 ## Features
